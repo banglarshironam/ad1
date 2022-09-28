@@ -1,0 +1,28 @@
+<body border="0" margin="0" style="margin: 0; padding: 0">
+
+
+
+
+    <meta charset="UTF-8">
+    <meta name="ad.size" content="width=300,height=250">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <link rel="shortcut icon" type="image/x-icon" href="//purplepatch.online/assets/ico/favicon.ico">
+    <title>Countdown Banner by purplePatch</title>
+    <link rel="stylesheet" type="text/css" href="//ms.purplepatch.online/ramadan/2022/countdown/citygroup/97090/style.css">
+
+
+    <a href="https://bgd1.purplepatch.online/rtb/clicks?n=Nz%2FdXZe5HVY1OP25nQ8X1t2jF%2B6MqfwR%2BOMRe8ySWLnuq%2FD2%2FcViE6YOsl5DWE4NQ8G2UPKpHmkwIuq2FE8o%2BOoXLEF6PMgShNvJrQZmaM7Lyl251AOndXR81QWAK2LskUUqb%2BGvw7XBWkSe2voSGoQKpUnyP8KTEaxiRu%2F94sReiygv306oxA0LKEju03A%2BtAMirN%2FhlEyYuIqJf%2Bamo4cLdGncgoHj7G6xJb8wb2OqtvkEly4zF0AS27g0gjQa5yocE05VlXMHIVWld9O8bSEyaS9JvJE7EDlYvGFcwBc%3D" target="_blank">
+        <div class="wrapper">
+            <div class="patch_box absolute">
+                <div class="patch_countdown absolute"><span class="hour absolute">০৪</span> <span class="minute absolute">২৩</span> <span class="second absolute">৫৯</span></div>
+                <div class="patch_title absolute"><img src="//ms.purplepatch.online/ramadan/2022/countdown/citygroup/97090/img/ifter.png" alt=""></div>
+                <div class="patch_title_2 absolute"><span class=" absolute">৪:১৫ </span></div>
+                <div class="patch_title_3 absolute"><span class=" absolute">৬:২৩ </span></div>
+            </div>
+        </div>
+    </a>
+<script type="text/javascript" src="//ms.purplepatch.online/ramadan/2022/countdown/citygroup/97090/animation.js?v=1.5"></script>
+
+<img src="https://bgd1.purplepatch.online/rtb/pixels?n=Nz%2FdXZe5HVY1OP25nQ8X1t2jF%2B6MqfwR%2BOMRe8ySWLnuq%2FD2%2FcViE6YOsl5DWE4NQ8G2UPKpHmkwIuq2FE8o%2BOoXLEF6PMgShNvJrQZmaM7Lyl251AOndXR81QWAK2LskUUqb%2BGvw7XBWkSe2voSGoQKpUnyP8KTEaxiRu%2F94sReiygv306oxA0LKEju03A%2BtAMirN%2FhlEyYuIqJf%2Bamo4cLdGncgoHj7G6xJb8wb2OqtvkEly4zF0AS27g0gjQa5yocE05VlXMHIVWld9O8bSEyaS9JvJE7EDlYvGFcwBc%3D" height="1" width="1" style="display:none;">
+</body>
